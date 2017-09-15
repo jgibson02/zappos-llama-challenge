@@ -1,0 +1,19 @@
+{
+  "name": "jgibson-zappos-llama",
+  "version": "0.0.0",
+  "description": "A charming site about llamas created for The Zappos Family.",
+  "repository": "",
+  "author": "John Gibson <jonathangibson02@gmail.com>",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-webserver": "^0.9.1",
+    "react": "^15.6.1"
+  },
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "gulp-reactify": "^3.0.1",
+    "react-dom": "^15.6.1"
+  }
+}
